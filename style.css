@@ -22,3 +22,26 @@
     /* border: 2px solid green; */
     width: 19%;
 }
+.mynavbar{
+    width: 100%;
+    height: 70px;
+    border:2px solid white;
+
+}
+.mynavbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin-top: 20px;
+}
+.heading_para1{
+    background-image: url('./assets/slider1_background-1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 900px;
+}
+.myimg_para2{
+display: flex;
+gap: 200px;
+}
